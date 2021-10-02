@@ -1,0 +1,13 @@
+C:\Users\brver\Documents\Intro to programming\PetrolStationConsole\PetrolStationConsole\bin\Release\netcoreapp3.1\PetrolStationConsole.exe
+C:\Users\brver\Documents\Intro to programming\PetrolStationConsole\PetrolStationConsole\bin\Release\netcoreapp3.1\PetrolStationConsole.deps.json
+C:\Users\brver\Documents\Intro to programming\PetrolStationConsole\PetrolStationConsole\bin\Release\netcoreapp3.1\PetrolStationConsole.runtimeconfig.json
+C:\Users\brver\Documents\Intro to programming\PetrolStationConsole\PetrolStationConsole\bin\Release\netcoreapp3.1\PetrolStationConsole.runtimeconfig.dev.json
+C:\Users\brver\Documents\Intro to programming\PetrolStationConsole\PetrolStationConsole\bin\Release\netcoreapp3.1\PetrolStationConsole.dll
+C:\Users\brver\Documents\Intro to programming\PetrolStationConsole\PetrolStationConsole\bin\Release\netcoreapp3.1\PetrolStationConsole.pdb
+C:\Users\brver\Documents\Intro to programming\PetrolStationConsole\PetrolStationConsole\obj\Release\netcoreapp3.1\PetrolStationConsole.csprojAssemblyReference.cache
+C:\Users\brver\Documents\Intro to programming\PetrolStationConsole\PetrolStationConsole\obj\Release\netcoreapp3.1\PetrolStationConsole.csproj.CoreCompileInputs.cache
+C:\Users\brver\Documents\Intro to programming\PetrolStationConsole\PetrolStationConsole\obj\Release\netcoreapp3.1\PetrolStationConsole.AssemblyInfoInputs.cache
+C:\Users\brver\Documents\Intro to programming\PetrolStationConsole\PetrolStationConsole\obj\Release\netcoreapp3.1\PetrolStationConsole.AssemblyInfo.cs
+C:\Users\brver\Documents\Intro to programming\PetrolStationConsole\PetrolStationConsole\obj\Release\netcoreapp3.1\PetrolStationConsole.dll
+C:\Users\brver\Documents\Intro to programming\PetrolStationConsole\PetrolStationConsole\obj\Release\netcoreapp3.1\PetrolStationConsole.pdb
+C:\Users\brver\Documents\Intro to programming\PetrolStationConsole\PetrolStationConsole\obj\Release\netcoreapp3.1\PetrolStationConsole.genruntimeconfig.cache
